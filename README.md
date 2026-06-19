@@ -10,9 +10,6 @@ your-repo/
 ├── JUSTICE-main/                        ← clone the JUSTICE model here (see below)
 ├── caricom_justice_analysis_revised.ipynb
 └── README.md
-```
-
-The notebook expects `JUSTICE-main` to be in the **parent directory** of the notebook file. If you clone both into the same folder, it will work automatically.
 
 ---
 
