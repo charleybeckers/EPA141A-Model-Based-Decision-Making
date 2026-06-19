@@ -7,7 +7,7 @@
 
 ```
 your-repo/
-├── JUSTICE-main/                        ← clone the JUSTICE model here (see below)
+├── JUSTICE-main/                        
 ├── caricom_justice_analysis.ipynb
 └── README.md
 ```
