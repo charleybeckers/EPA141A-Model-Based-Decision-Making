@@ -32,7 +32,7 @@ pip install ema-workbench scikit-learn seaborn
 
 Open `caricom_justice_analysis_revised.ipynb` in Jupyter and run all cells in order. Each part is self-contained and builds on the outputs of the previous one — do not skip cells.
 
-Expected runtime: approximately 10–20 minutes (the ensemble in Part 6 runs 576 model evaluations).
+Expected runtime: approximately 30 minutes (the ensemble in Part 6 runs 576 model evaluations).
 
 ---
 
