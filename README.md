@@ -51,15 +51,16 @@ Expected runtime: approximately 10–20 minutes (the ensemble in Part 6 runs 576
 | Figure F — Caribbean CPC trajectory (BAU vs high-ambition) | Part 5b | `plots_caricom/caricom_new_03_cpc_trajectory.png` |
 | Output 4 — Scenario ensemble | Part 6 | printed output |
 | Output 5 — Sensitivity analysis | Part 7 | printed output |
+| Figure G — Sensitivity analysis | Part 7 | `plots_caricom/caricom_SA_sensitivity.png` |
 | Output 6 — Scenario discovery | Part 8 | printed output |
-| Figure G — Scenario discovery | Part 8 | `plots_caricom/caricom_SD_scenario_discovery.png` |
-| Figure H — Robustness by ECR | Part 9 | `plots_caricom/caricom_ROB_robustness.png` |
+| Figure H — Scenario discovery | Part 8 | `plots_caricom/caricom_SD_scenario_discovery.png` |
+| Figure I — Robustness by ECR | Part 9 | `plots_caricom/caricom_ROB_robustness.png` |
 | Output 7 — Welfare function comparison | Part 10a | printed output |
-| Figure I — Welfare function comparison | Part 10b | `plots_caricom/caricom_new_05_swf_regional_welfare.png` |
+| Figure J — Welfare function comparison | Part 10b | `plots_caricom/caricom_new_05_swf_regional_welfare.png` |
 | Output 8 — Delta sensitivity | Part 11a | printed output |
-| Figure J — Delta sensitivity | Part 11b | `plots_caricom/caricom_09_delta_sensitivity.png` |
+| Figure K — Delta sensitivity | Part 11b | `plots_caricom/caricom_09_delta_sensitivity.png` |
 | Output 9 — Debate evidence card | Part 12 | printed output |
-| Figure K — Summary Figure | Part 13 | `plots_caricom/caricom_00_summary.png` |
+| Figure L — Summary Figure | Part 13 | `plots_caricom/caricom_00_summary.png` |
 
 All figures are saved automatically to a `plots_caricom/` folder created on first run.
 
