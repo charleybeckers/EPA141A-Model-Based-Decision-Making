@@ -40,13 +40,26 @@ Expected runtime: approximately 10–20 minutes (the ensemble in Part 6 runs 576
 
 | Figure in report | Notebook section | Saved file |
 |---|---|---|
-| Figure A — Temperature trajectories | Part 2 | `plots_caricom/caricom_new_01_...` |
-| Figure B — Emissions vs damage share | Part 3 | `plots_caricom/caricom_new_01_injustice_ratio.png` |
-| Figure C — Sensitivity analysis | Part 7 | printed output |
-| Figure D — Scenario discovery | Part 8 | `plots_caricom/caricom_SD_scenario_discovery.png` |
-| Figure E — Robustness by ECR | Part 9 | `plots_caricom/caricom_ROB_robustness.png` |
-| Figure F — Caribbean CPC trajectory | Part 5b | `plots_caricom/caricom_new_03_cpc_trajectory.png` |
-| Figure G — Welfare function comparison | Part 10 | `plots_caricom/caricom_new_05_swf_regional_welfare.png` |
+| Output 1 — Welfare function choice | Part 1 | printed output |
+| Figure A — Temperature trajectories | Part 2 | `plots_caricom/caricom_01_temperature.png` |
+| Figure B — Emissions vs damage share | Part 3 | `plots_caricom/caricom_02_damage_fraction.png` |
+| Output 2 — Abatement burden vs damage  burden | Part 4a | printed output |
+| Figure C — Abatement burden vs damage  burden | Part 4a | `plots_caricom/caricom_03_burden_comparison.png` |
+| Output 3 — Abatement burden vs damage burden | Part 4b | printed output |
+| Figure D — Abatement burden vs damage burden | Part 4b | `plots_caricom/caricom_new_01_injustice_ratio.png` |
+| Figure E — Consumption per capita & the sufficiency floor | Part 5a | `plots_caricom/caricom_04_consumption_sufficiency.png` | 
+| Figure F — Caribbean CPC trajectory (BAU vs high-ambition) | Part 5b | `plots_caricom/caricom_new_03_cpc_trajectory.png` |
+| Output 4 — Scenario ensemble | Part 6 | printed output |
+| Output 5 — Sensitivity analysis | Part 7 | printed output |
+| Output 6 — Scenario discovery | Part 8 | printed output |
+| Figure G — Scenario discovery | Part 8 | `plots_caricom/caricom_SD_scenario_discovery.png` |
+| Figure H — Robustness by ECR | Part 9 | `plots_caricom/caricom_ROB_robustness.png` |
+| Output 7 — Welfare function comparison | Part 10a | printed output |
+| Figure I — Welfare function comparison | Part 10b | `plots_caricom/caricom_new_05_swf_regional_welfare.png` |
+| Output 8 — Delta sensitivity | Part 11a | printed output |
+| Figure J — Delta sensitivity | Part 11b | `plots_caricom/caricom_09_delta_sensitivity.png` |
+| Output 9 — Debate evidence card | Part 12 | printed output |
+| Figure K — Summary Figure | Part 13 | `plots_caricom/caricom_00_summary.png` |
 
 All figures are saved automatically to a `plots_caricom/` folder created on first run.
 
