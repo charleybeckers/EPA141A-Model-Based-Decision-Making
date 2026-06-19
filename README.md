@@ -10,8 +10,7 @@ your-repo/
 ├── JUSTICE-main/                        ← clone the JUSTICE model here (see below)
 ├── caricom_justice_analysis_revised.ipynb
 └── README.md
-
----
+```
 
 ## Setup
 
