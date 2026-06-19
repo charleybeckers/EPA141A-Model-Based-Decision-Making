@@ -58,7 +58,8 @@ Expected runtime: approximately 30 minutes (the ensemble in Part 6 runs 576 mode
 | Output 7 — Welfare function comparison | Part 10a | printed output |
 | Figure J — Welfare function comparison | Part 10b | `plots_caricom/caricom_regional_welfare.png` |
 | Output 8 — Delta sensitivity | Part 11a | printed output |
-| Figure K — Delta sensitivity | Part 11b | `plots_caricom/caricom_delta_sensitivity.png` |
+| Figure K — Delta sensitivity | Part 11b | `plots_caricom/caricom_delta_sensitivity_regional.png` |
+| Figure K — Delta sensitivity | Part 11c | `plots_caricom/caricom_delta_sensitivity_global.png` |
 | Output 9 — Debate evidence card | Part 12 | printed output |
 | Figure L — Summary Figure | Part 13 | `plots_caricom/caricom_summary.png` |
 
